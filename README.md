@@ -10,8 +10,10 @@ This repo is split into a few parts:
 
 # The design process(... hrs ...min)
 
-## Phrase 1: PLANNING ~20 mins
+## Phrase 1: PLANNING ~1hr 20 mins
    I have **always** wanted a keyboard with a volume knob but which is compact essentially a 60% but with fn keys. I have also wanted custom mappings tho for that I currently use software to bypass it. I don't really care for screens so I want be including it. Next I want like switches that feel good so mx red work out the best for me personnally but this can be changed later in the process. I also want the keyboard to be a wooden accent with the keycaps having the letters not on the top but on the front of the keys. I really like some amount of rgb on my keyboard too. I dont want a split keyboard either.
+
+<img width="194" height="42" alt="image" src="https://github.com/user-attachments/assets/fbb97b83-dcaf-4743-836f-6decf0462a69" />
 
 ## Phrase 2: DESIGNING THE PCB (Total time: ... hrs ...min)
 
