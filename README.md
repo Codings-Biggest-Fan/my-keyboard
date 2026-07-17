@@ -22,6 +22,7 @@ First major challenge war organizing the rows and columns so I drew this as a re
 Next I added a 6x15 grid of switches and used the image above to create the rows and columns(~75 min)
 <img width="375" height="427" alt="image" src="https://github.com/user-attachments/assets/8466242f-bffb-464b-9a72-d43f7d9d1ce6" /> 
 <img width="711" height="476" alt="image" src="https://github.com/user-attachments/assets/08affba8-e34d-45a4-ba82-e32e1ef7191a" />
+
 This was really challenging just due to my mouse sense I had made so many precise moves my hand hurt!!!! I turned it down took a brak and came back but the end product looked realy good Now it was time to move on to the volume knob
 ## Phrase 3: CAD (Total time: ... hrs ...min)
 
